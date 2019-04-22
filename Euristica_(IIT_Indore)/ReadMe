@@ -1,0 +1,5 @@
+This was a ML competition where there were two questions.
+1. Based on input features, predict the output value (continous Value).
+It was achieved by Linear Regression with an accuracy of 94%
+2. Based on input feaures, predict the class label from among 9 classes.
+Used Ensemble approach to get Accuracy around 88%. Ensemble was architecture level Ensemeble which included, MLP, AdaBoost and SVM.
